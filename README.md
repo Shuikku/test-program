@@ -1,2 +1,4 @@
 # test-program
- testing
+ testings
+
+ hello this is a test run
