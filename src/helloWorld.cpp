@@ -48,8 +48,7 @@ void displayMenu()
             break;
 
         case 4:
-            flag = 0;
-            return;
+            exit(0);
             break;
 
         default:
